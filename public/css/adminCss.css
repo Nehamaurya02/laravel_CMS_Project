@@ -1,0 +1,30 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+    text-decoration:none;
+    list-style: none;
+}
+.header{
+    height:60px;
+    background:#87ceeb;
+}
+.side_menu{
+    min-height:693px;
+    background:#87ceeb;
+   padding: 30px;
+   box-sizing: border-box;
+}
+.dash{
+    height:50px;
+    width:100%;
+    line-height:50px;
+    font-size:20px;
+    font-weight:500;
+    border-radius:20px;
+    border-bottom:3px solid rgb(132, 132, 248);
+}
+.dash a{
+    text-decoration:none;
+    color:#87ceeb;
+}
